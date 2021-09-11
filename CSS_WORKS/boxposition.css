@@ -1,0 +1,51 @@
+.ab{
+    border: 2px solid black;
+    position: relative;
+    width: 600px;
+    height: 400px;
+    
+    
+    
+    
+}
+ .fir{
+    position: absolute;
+    border: 2px solid black;
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    width: 120%;
+    background-color: blueviolet;    
+}
+.sec{
+    background-color: crimson;
+    position: absolute;
+    top: 0%;
+    left: 7%;
+    height: 100%;
+    width: 120%;
+}
+.thir{
+    background-color: cornflowerblue;
+    position: absolute;
+    top: 0%;
+    left: 25%;
+    height: 100%;
+    width: 120%;
+}
+.for{
+    background-color: darkblue;
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    height: 100%;
+    width: 120%;
+}
+.fif{
+    background-color: chartreuse;
+    position: absolute;
+    top: 0%;
+    left: 450px;
+    height: 100%;
+    width: 120%;
+} 

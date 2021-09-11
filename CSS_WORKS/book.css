@@ -1,0 +1,32 @@
+div{
+    width: 33%;
+    height: 600px;
+    border: 0px solid black;
+    float: left;
+}
+img{
+    width: 100%;
+    height: 30%;
+}
+button{
+    margin-top: 0%;
+    margin-left: 0%;
+    background-color:springgreen;
+}
+#abc{
+    margin-top: 0%;
+    margin-left: 0%;
+}
+header{
+    display: flex;
+    width: 100%;
+    height: 50px;
+    background-color: blue;
+    justify-content: space-evenly;
+    text-decoration: none;
+    padding: 100px;
+}
+header a{
+    color: cornsilk;
+}
+/* incomplete. do it again */

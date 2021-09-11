@@ -1,0 +1,15 @@
+div{
+    border: 2px solid black;
+    width: 20%;
+    height: 50%;
+}
+.b1{
+    background-color: aqua;
+    margin-top: 20%;
+    margin-left: 10%;
+}
+.b2{
+    background-color:yellow;
+    margin-top: 10%;
+    margin-left: 20%;
+}

@@ -1,0 +1,24 @@
+i{
+    margin-left: 635px;
+}
+h1{
+    margin-left: 609px;
+    font-style:inherit;
+}
+body{
+    background-color:lightsteelblue;
+}
+form{
+    text-align: center;
+    font-size: 10px;
+    
+}
+legend{
+    margin-left: 48%;
+}
+.al{
+    text-align: center;
+}
+#user{
+    size: 10%;
+}

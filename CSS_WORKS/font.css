@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+div{
+    border: 2px solid black;
+    color:rgb(245, 63, 18);
+    font-family: 'Rampart One', cursive;
+    background-color: darkgray;
+    width: 25%;
+}
+#fir{
+    color:springgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color: darkorange;
+    background-image: url(./pexels-pixabay-235986.jpg);
+    background-size: cover;
+}

@@ -1,0 +1,28 @@
+.parent{
+    width: 550px;
+    height: 310px;
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.col{
+    width: 502px;
+    height: 303px;
+}
+.col1{
+    background-color:teal;
+}
+.col2{
+    background-color:burlywood;
+}
+.col3{
+    background-color:blueviolet;
+}
+.col4{
+    background-color:turquoise;
+}
+.col5{
+    background-color:yellowgreen;
+}

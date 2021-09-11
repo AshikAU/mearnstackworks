@@ -1,0 +1,43 @@
+.ab{
+    width: 100%;
+    height: 310px;
+    background-color: brown;
+    position: relative;
+
+}
+.aa{
+    width: 25%;
+    height: 310px;
+    position: absolute;
+    top: 0%;
+    border: 1px solid black;
+
+
+}
+.fir{
+    position: absolute;
+    left: 0%;
+    background-color: chartreuse;
+}
+.sec{
+    background-color: aqua;
+    position: absolute;
+    left: 18%;
+}
+.thir{
+    background-color: teal;
+    position: absolute;
+    left: 36%;
+}
+.for{
+    background-color: rgb(156, 173, 173);
+    position: absolute;
+    left: 54%;
+}
+.fif{
+    background-color:tomato;
+    position: absolute;
+    left: 72%;
+}
+
+/* complete with a box down */

@@ -1,0 +1,16 @@
+/* selectors
+class
+tag
+id */
+h1{
+    color: blue;
+    text-align: center;
+}
+#sec{
+    color: brown;
+    text-align: center;
+}
+.cls{
+    color: rgba(120, 221, 26, 0.938);
+    text-align:center;
+}
